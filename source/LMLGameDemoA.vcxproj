@@ -179,6 +179,10 @@
     <ClInclude Include="wave.h" />
     <ClInclude Include="wave_manager.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\puml\时序图总览.png" />
+    <Image Include="..\puml\类图总览.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
